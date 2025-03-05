@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\application\\services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\application\\services\\citaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\application\\services\\icitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\application\\services\\icitaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\infrastructure\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\infrastructure\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\application\\mappers\\citamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\application\\mappers\\citamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\application\\dto\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\application\\dto\\citadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciocitas\\microserviciocitas\\domain\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F93F5-D48B-4536-9E49-BF77D2D8D20A}|MicroservicioCitas\\MicroservicioCitas.csproj|solutionrelative:microserviciocitas\\domain\\entities\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICitaService.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\Services\\ICitaService.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Application\\Services\\ICitaService.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\Services\\ICitaService.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Application\\Services\\ICitaService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:23:59.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\mappers\\CitaMapper.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Application\\mappers\\CitaMapper.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\mappers\\CitaMapper.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Application\\mappers\\CitaMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:56:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\dto\\CitaDTO.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Application\\dto\\CitaDTO.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\dto\\CitaDTO.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Application\\dto\\CitaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T16:52:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaService.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\Services\\CitaService.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Application\\Services\\CitaService.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Application\\Services\\CitaService.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Application\\Services\\CitaService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:40:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Infrastructure\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Infrastructure\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Infrastructure\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Infrastructure\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:58:22.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Domain\\Entities\\Cita.cs",
+              "RelativeDocumentMoniker": "MicroservicioCitas\\Domain\\Entities\\Cita.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioCitas\\MicroservicioCitas\\Domain\\Entities\\Cita.cs",
+              "RelativeToolTip": "MicroservicioCitas\\Domain\\Entities\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:23:24.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

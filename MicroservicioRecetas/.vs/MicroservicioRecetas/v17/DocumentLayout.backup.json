@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|c:\\users\\jhon.lara\\source\\repos\\microserviciorecetas\\microserviciorecetas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\infrastructure\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\infrastructure\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\repository\\recetacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\repository\\recetacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\infrastructure\\controllers\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\infrastructure\\controllers\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\application\\services\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\application\\services\\recetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\application\\services\\irecetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\application\\services\\irecetaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\microserviciorecetas\\domain\\intefces\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DB57D6-FB3E-464D-AE99-6CF2B910079E}|MicroservicioRecetas\\MicroservicioRecetas.csproj|solutionrelative:microserviciorecetas\\domain\\intefces\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Web.config",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Web.config",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Web.config",
+              "RelativeToolTip": "MicroservicioRecetas\\Web.config",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwE4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-28T16:26:36.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Application\\Services\\IRecetaService.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Application\\Services\\IRecetaService.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Application\\Services\\IRecetaService.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Application\\Services\\IRecetaService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:21:27.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecetasController.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Infrastructure\\Controllers\\RecetasController.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Infrastructure\\Controllers\\RecetasController.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Infrastructure\\Controllers\\RecetasController.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Infrastructure\\Controllers\\RecetasController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:19:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:53:44.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecetaService.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Application\\Services\\RecetaService.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Application\\Services\\RecetaService.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Application\\Services\\RecetaService.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Application\\Services\\RecetaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:21:15.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Global.asax.cs*",
+              "RelativeToolTip": "MicroservicioRecetas\\Global.asax.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:18:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Infrastructure\\Controllers\\RecetaRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Infrastructure\\Controllers\\RecetaRepository.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Infrastructure\\Controllers\\RecetaRepository.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Infrastructure\\Controllers\\RecetaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:35:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecetaContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Repository\\RecetaContext.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Repository\\RecetaContext.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Repository\\RecetaContext.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Repository\\RecetaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:12:07.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRecetaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Domain\\Intefces\\IRecetaRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicioRecetas\\Domain\\Intefces\\IRecetaRepository.cs",
+              "ToolTip": "C:\\Users\\jhon.lara\\source\\repos\\MicroservicioRecetas\\MicroservicioRecetas\\Domain\\Intefces\\IRecetaRepository.cs",
+              "RelativeToolTip": "MicroservicioRecetas\\Domain\\Intefces\\IRecetaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:09:09.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
